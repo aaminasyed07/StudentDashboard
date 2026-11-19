@@ -1,0 +1,10 @@
+StudentName="Aamina"
+StudentAge="18"
+StudentAttendance="100%"
+print("======================")
+print("StudentDashBoard")
+print("======================")
+print(StudentName)
+print(StudentAge)
+print(StudentAttendance)
+print("StudentDashBoardcreatedSuccesfully")
