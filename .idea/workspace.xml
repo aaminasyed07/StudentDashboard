@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b6bf718-bc13-4b2a-b99a-03e6c6fa26dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/StudentDashboard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="1b6bf718-bc13-4b2a-b99a-03e6c6fa26dc" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,77 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aaminasyed07&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aaminasyed07/StudentDashboard.git&quot;,
+    &quot;accountId&quot;: &quot;d744a711-6ee6-4969-ad2e-d6a6f31e3efd&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000000016" />
+      <entry key="S2" value="1.0003550968049626" />
+      <entry key="S5" value="1.0417002756989646" />
+      <entry key="S10" value="1.2044434180027452" />
+      <entry key="S30" value="1.7650993692733623" />
+      <entry key="S60" value="3.0020771989339816" />
+      <entry key="M2" value="5.914404840208791" />
+      <entry key="M5" value="14.114286481785806" />
+      <entry key="M10" value="25.072036688605756" />
+      <entry key="M15" value="32.14344909358667" />
+      <entry key="M30" value="42.516259172907596" />
+      <entry key="H1" value="49.47077075379382" />
+      <entry key="H2" value="53.51601452919457" />
+      <entry key="H4" value="55.70005370490679" />
+      <entry key="D1" value="57.608347475236094" />
+      <entry key="W1" value="57.9438419404947" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.3575984447562026E-232" />
+      <entry key="S2" value="1.2391316762019825E-58" />
+      <entry key="S5" value="6.874592875376431E-24" />
+      <entry key="S10" value="2.621944483656439E-12" />
+      <entry key="S30" value="1.378926735727948E-4" />
+      <entry key="S60" value="0.011745762341416888" />
+      <entry key="M2" value="0.11009369072152854" />
+      <entry key="M5" value="0.4896625420104238" />
+      <entry key="M10" value="0.9214545966716438" />
+      <entry key="M15" value="1.1718426038978338" />
+      <entry key="M30" value="1.516731655053583" />
+      <entry key="H1" value="1.7375705002331132" />
+      <entry key="H2" value="1.863066744598632" />
+      <entry key="H4" value="1.9300327897227192" />
+      <entry key="D1" value="1.9881240593130711" />
+      <entry key="W1" value="1.9982980935390695" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.0454497388730323E-22" />
+      <entry key="MS500" value="4.5936485211519355E-5" />
+      <entry key="S2" value="0.08232667788726097" />
+      <entry key="S5" value="0.37047665888676456" />
+      <entry key="S10" value="0.6535798397803207" />
+      <entry key="S30" value="1.3666192685690453" />
+      <entry key="S60" value="2.7165353461071713" />
+      <entry key="M2" value="5.799364582582183" />
+      <entry key="M5" value="14.447009314160864" />
+      <entry key="M10" value="25.878464691343165" />
+      <entry key="M15" value="33.22364484864422" />
+      <entry key="M30" value="43.9763653554966" />
+      <entry key="H1" value="51.17643372206476" />
+      <entry key="H2" value="55.362084550355" />
+      <entry key="H4" value="57.62130684829038" />
+      <entry key="D1" value="59.594967318141464" />
+      <entry key="W1" value="59.941924117934775" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
   &quot;fromUser&quot;: false
@@ -33,22 +103,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,11 +134,28 @@
       <option name="presentableId" value="Default" />
       <updated>1795087624267</updated>
       <workItem from="1795087625849" duration="212000" />
-      <workItem from="1795087852417" duration="535000" />
+      <workItem from="1795087852417" duration="1110000" />
+      <workItem from="1795605357405" duration="1778000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1795088462534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1795088462534</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/StudentDashboard$main.coverage" NAME="main Coverage Results" MODIFIED="1795606995072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
